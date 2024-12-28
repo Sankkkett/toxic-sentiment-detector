@@ -107,6 +107,6 @@ python -m streamlit run app.py
 ## Author
 - **Name**: Sanket Pawar
 - **Contact**: [sanketpawar24112001@gmail.com](mailto:sanketpawar24112001@gmail.com)
-- **LinkedIn**: [Add LinkedIn profile link]
+- **LinkedIn**: [(https://www.linkedin.com/in/sanket-pawar-5b6682286/)]
 
 Feel free to fork the repository or contribute to its development!
