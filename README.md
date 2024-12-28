@@ -7,6 +7,17 @@ The Toxic Sentiment Detector is a machine learning project designed to classify 
 - **Sentiment Classification**: Utilizes machine learning models for accurate classification.
 - **Visualization**: Provides graphical insights into data distribution and model performance.
 - **User-Friendly Deployment**: Accessible via a Streamlit-based web interface.
+- **Toxicity Detection**: Classifies text as "Toxic" or "Non-toxic."
+- **Interactive UI**: User-friendly interface built with Streamlit.
+- **Custom Styling**: Enhanced visual presentation with CSS.
+
+### Prerequisites
+Ensure you have the following installed:
+- Python 3.7+
+- Required Python libraries (listed in `requirements.txt`)
+- Pre-trained model and vectorizer files:
+  - `Toxicity_Sentiment_model.pkl`
+  - `tf_idf.pkl`
 
 ## Technologies Used
 
@@ -21,7 +32,7 @@ The Toxic Sentiment Detector is a machine learning project designed to classify 
 - **Streamlit**: For deploying the web application.
 
 ## Dataset Used
-- **Source**: [Add dataset source]
+- **Source**: [https://www.kaggle.com/datasets/ashwiniyer176/toxic-tweets-dataset)]
 - **Description**: Contains labeled text examples categorized as toxic or non-toxic.
 
 ## Steps Performed
@@ -59,6 +70,8 @@ The Toxic Sentiment Detector is a machine learning project designed to classify 
    - Built a web application using Streamlit to allow users to:
      - Input text
      - View classification results
+    
+
 
 ## How to Run
 
@@ -84,13 +97,7 @@ python -m streamlit run app.py
 
 ### Open the provided URL in your browser to use the application.
 
-## Key Results
 
-### Model Performance
-- **Accuracy**: [Add value after evaluation]
-- **F1-Score**: [Add value after evaluation]
-
-The tool successfully identifies toxic text with high accuracy and provides an intuitive interface for moderation.
 
 ## Future Work
 - Integrate deep learning models like LSTMs or Transformers for improved performance.
