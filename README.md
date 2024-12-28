@@ -13,7 +13,7 @@ The Toxic Sentiment Detector is a machine learning project designed to classify 
 
 ### Prerequisites
 Ensure you have the following installed:
-- Python 3.7+
+- Python 3.10
 - Required Python libraries (listed in `requirements.txt`)
 - Pre-trained model and vectorizer files:
   - `Toxicity_Sentiment_model.pkl`
