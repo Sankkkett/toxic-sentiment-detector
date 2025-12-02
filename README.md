@@ -1,6 +1,9 @@
 # Toxic Sentiment Detection App
 
 The Toxic Sentiment Detector is a machine learning project designed to classify text into toxic and non-toxic categories. This tool helps moderate online conversations by detecting harmful or offensive language. It employs Natural Language Processing (NLP) techniques and machine learning algorithms for sentiment analysis and classification.
+## Dashboard
+![dashboard](https://github.com/Sankkkett/toxic-sentiment-detector/blob/main/dashboard1.jpeg)
+![dashboard](https://github.com/Sankkkett/toxic-sentiment-detector/blob/main/dashboard2.jpeg)
 
 ## Features
 - **Preprocessing of Textual Data**: Includes tokenization, cleaning, and standardization of text.
